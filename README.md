@@ -2,7 +2,7 @@
 
 ### Open to work
 
-I was formally a pharmacy technician. Years of serving patients taught me that details matter and people come first. I now apply these principles when building web applications. I'm based in Strasbourg, France.
+I was previously a pharmacy technician. Years of serving patients taught me that details matter and people come first. I now apply these principles when building web applications. I'm based in Strasbourg, France.
 
 ---
 
