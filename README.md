@@ -8,7 +8,7 @@ I was previously a pharmacy technician. Years of serving patients taught me that
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,postgresql,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,postgresql,tailwind,figma,git,javascript)](https://skillicons.dev)
 
 ---
 
