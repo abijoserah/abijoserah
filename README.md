@@ -21,6 +21,6 @@ I was previously a pharmacy technician. Years of serving patients taught me that
 
 ---
 
-### How to reach me
+### Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/serah-abijo) · [serahabijo94@gmail.com](mailto:serahabijo94@gmail.com) · [serahabijo.com](https://www.serahabijo.com)
