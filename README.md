@@ -1,8 +1,8 @@
 <img src="https://www.serahabijo.com/images/serahabijo.jpg" alt="Serah Abijo" width="200" />
 
-### About
+### Open to work
 
-Former pharmacy technician turned software engineer. I traded prescriptions for code at Wild Code School, bringing the same rigor and attention to detail from healthcare into building modern web applications.
+Former pharmacy technician turned fullstack developer. Years of serving patients taught me that details matter and people come first — principles I now apply to building web applications. Based in Strasbourg.
 
 ---
 
@@ -14,19 +14,14 @@ Former pharmacy technician turned software engineer. I traded prescriptions for 
 
 ### Projects
 
-| | | |
-|:---:|:---:|:---:|
-| [![Time to Eat](https://www.serahabijo.com/images/time-to-eat.jpg)](https://time-to-eat.vercel.app) | [![Mood Player](https://www.serahabijo.com/images/mood-player.jpg)](https://abijoserah.github.io/Mood_Player_SR2) | [![My Local Escape](https://www.serahabijo.com/images/my-local-escape.jpg)](https://abijoserah.github.io/My-local-escape/) |
-| **Time to Eat** | **Mood Player** | **My Local Escape** |
-| Recipe search app | Music by mood | Montpellier guide |
-| [Live Demo](https://time-to-eat.vercel.app) | [Live Demo](https://abijoserah.github.io/Mood_Player_SR2) | [Live Demo](https://abijoserah.github.io/My-local-escape/) |
+- [Time to Eat](https://time-to-eat.vercel.app) - Recipe search app
+- [Mood Player](https://abijoserah.github.io/Mood_Player_SR2) - Music by mood
+- [My Local Escape](https://abijoserah.github.io/My-local-escape/) - Montpellier guide
 
 ---
 
 ### Connect
 
-[Portfolio](https://serahabijo.com) · [LinkedIn](https://www.linkedin.com/in/serah-abijo) · [serahabijo94@gmail.com](mailto:serahabijo94@gmail.com)
+[![Connect](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
 
----
-
-*Open to apprenticeship opportunities starting February 2026*
+[LinkedIn](https://www.linkedin.com/in/serah-abijo) · [serahabijo94@gmail.com](mailto:serahabijo94@gmail.com)
