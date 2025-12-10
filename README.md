@@ -6,7 +6,7 @@ I was formally a pharmacy technician. Years of serving patients taught me that d
 
 ---
 
-### What I work with
+### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,postgresql,tailwind)](https://skillicons.dev)
 
@@ -22,7 +22,5 @@ I was formally a pharmacy technician. Years of serving patients taught me that d
 ---
 
 ### Let's talk
-
-[![Connect](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
 
 [LinkedIn](https://www.linkedin.com/in/serah-abijo) · [serahabijo94@gmail.com](mailto:serahabijo94@gmail.com) · [serahabijo.com](https://www.serahabijo.com)
