@@ -1,12 +1,4 @@
-<img src="https://www.serahabijo.com/images/image.png" alt="Serah Abijo" width="150" />
-
-# Serah Abijo
-
-*"Prescribe code instead of medication"*
-
-Fullstack Developer · Strasbourg, France
-
----
+<img src="https://www.serahabijo.com/images/serahabijo.jpg" alt="Serah Abijo" width="200" />
 
 ### About
 
@@ -22,26 +14,12 @@ Former pharmacy technician turned software engineer. I traded prescriptions for 
 
 ### Projects
 
-<a href="https://time-to-eat.vercel.app">
-  <img src="https://www.serahabijo.com/images/time-to-eat.jpg" alt="Time to Eat" width="250" />
-</a>
-
-**Time to Eat** — Recipe search app with clean component architecture
-[Live Demo](https://time-to-eat.vercel.app)
-
-<a href="https://abijoserah.github.io/Mood_Player_SR2">
-  <img src="https://www.serahabijo.com/images/mood-player.jpg" alt="Mood Player" width="250" />
-</a>
-
-**Mood Player** — Music recommendations based on your mood
-[Live Demo](https://abijoserah.github.io/Mood_Player_SR2)
-
-<a href="https://abijoserah.github.io/My-local-escape/">
-  <img src="https://www.serahabijo.com/images/my-local-escape.jpg" alt="My Local Escape" width="250" />
-</a>
-
-**My Local Escape** — Local attractions guide for Montpellier
-[Live Demo](https://abijoserah.github.io/My-local-escape/)
+| | | |
+|:---:|:---:|:---:|
+| [![Time to Eat](https://www.serahabijo.com/images/time-to-eat.jpg)](https://time-to-eat.vercel.app) | [![Mood Player](https://www.serahabijo.com/images/mood-player.jpg)](https://abijoserah.github.io/Mood_Player_SR2) | [![My Local Escape](https://www.serahabijo.com/images/my-local-escape.jpg)](https://abijoserah.github.io/My-local-escape/) |
+| **Time to Eat** | **Mood Player** | **My Local Escape** |
+| Recipe search app | Music by mood | Montpellier guide |
+| [Live Demo](https://time-to-eat.vercel.app) | [Live Demo](https://abijoserah.github.io/Mood_Player_SR2) | [Live Demo](https://abijoserah.github.io/My-local-escape/) |
 
 ---
 
