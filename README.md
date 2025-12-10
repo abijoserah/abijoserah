@@ -1,6 +1,8 @@
+## Fullstack Software engineer
+
 ### Open to work
 
-Former pharmacy technician turned fullstack developer. Years of serving patients taught me that details matter and people come first — principles I now apply to building web applications. Based in Strasbourg.
+I was formally a pharmacy technician. Years of serving patients taught me that details matter and people come first. I now apply these principles when building web applications. I'm based in Strasbourg, France.
 
 ---
 
