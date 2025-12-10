@@ -1,3 +1,5 @@
+<img src="https://www.serahabijo.com/images/image.png" alt="Serah Abijo" width="150" />
+
 # Serah Abijo
 
 *"Prescribe code instead of medication"*
@@ -14,20 +16,32 @@ Former pharmacy technician turned software engineer. I traded prescriptions for 
 
 ### Tech Stack
 
-React · Next.js · TypeScript · Node.js · PostgreSQL · Tailwind CSS
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,postgresql,tailwind)](https://skillicons.dev)
 
 ---
 
 ### Projects
 
+<a href="https://time-to-eat.vercel.app">
+  <img src="https://www.serahabijo.com/images/time-to-eat.jpg" alt="Time to Eat" width="250" />
+</a>
+
 **Time to Eat** — Recipe search app with clean component architecture
-[time-to-eat.vercel.app](https://time-to-eat.vercel.app)
+[Live Demo](https://time-to-eat.vercel.app)
+
+<a href="https://abijoserah.github.io/Mood_Player_SR2">
+  <img src="https://www.serahabijo.com/images/mood-player.jpg" alt="Mood Player" width="250" />
+</a>
 
 **Mood Player** — Music recommendations based on your mood
-[abijoserah.github.io/Mood_Player_SR2](https://abijoserah.github.io/Mood_Player_SR2)
+[Live Demo](https://abijoserah.github.io/Mood_Player_SR2)
+
+<a href="https://abijoserah.github.io/My-local-escape/">
+  <img src="https://www.serahabijo.com/images/my-local-escape.jpg" alt="My Local Escape" width="250" />
+</a>
 
 **My Local Escape** — Local attractions guide for Montpellier
-[abijoserah.github.io/My-local-escape](https://abijoserah.github.io/My-local-escape/)
+[Live Demo](https://abijoserah.github.io/My-local-escape/)
 
 ---
 
